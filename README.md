@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @starryski
 - 👀 I’m interested in ...learning and exploring tech!
 - 🌱 I’m currently learning ...software engineering
-- 📫 How to reach me ...on my socials
+- 📫 How to reach me ...
 
 <!---
 starryski/starryski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
